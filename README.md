@@ -1,6 +1,10 @@
 <h2 align="center"><samp> Olá eu sou o Railson Doglas! 🙋‍♂️</br>Estudante de Ciência de Dados</br>Desenvolvendo Hábilidades em Python!</samp></h2>
 
-<p><samp> - 🔭 Trabalhando em projetos do programa Trilhas Inova Maranhão. </samp></p>
+<p><samp> 
+    
+- 🔭 Trabalhando em projetos do programa Trilhas Inova Maranhão. 
+
+</samp></p>
 
 
 <div align="center">
