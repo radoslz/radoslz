@@ -7,12 +7,17 @@
 </br>
 
 [![Downloads](https://img.shields.io/github/followers/radoslz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/radoslz/)
-    </br>
-    </br>
+</br>
+</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railsondoglas/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/railsondoglas/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/railsondoglas) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C6sHtjRfQ7) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](railson.doglasii@gmail.com)
 
 ![Railson Doglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslz&show_icons=true&theme=radical)
+<div align="center">
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoslz)](https://github.com/radoslz/github-readme-stats)
+    
+</div>
 <h2 align="center"><samp> Tecnologias que utilizo</samp></h2>
 <div style="dsiplay: inline_block"><br />
      <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
