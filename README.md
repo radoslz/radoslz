@@ -1,4 +1,4 @@
-<h2 align="center"><samp> Olá eu sou o Railson Doglas! 🙋‍♂️</br>Estudante de Ciência de Dados</br>Desenvolvendo Hábilidades em Python!</samp></h2>
+<h2 align="center"><samp> Olá eu sou o Railson Doglas! 🙋‍♂️</br>Apenas um estudante</br>Desenvolvendo Hábilidades em Python e javascript!</samp></h2>
 
 <p><samp> 
     
