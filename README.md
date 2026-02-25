@@ -62,7 +62,7 @@ Atualmente desenvolvendo habilidades em:
 
 ## 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=radoslz)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=radoslz&theme=dark)](https://git.io/streak-stats)
 
 ---
 
