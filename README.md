@@ -1,38 +1,94 @@
-<h2 align="center"><samp> Olá eu sou o Railson Doglas! 🙋‍♂️</br>Apenas um estudante</br>Desenvolvendo Hábilidades em Python e javascript!</samp></h2>
+<h1 align="center">Railson Doglas</h1>
 
-<p><samp> 
-    
-- 🔭 Trabalhando em projetos do programa Trilhas Inova Maranhão. 
+<p align="center">
+Desenvolvedor Python | Backend | Automação | Data Science
+</p>
 
-</samp></p>
+---
 
+## 🚀 Sobre mim
 
-<div align="center">
-</br>
+Sou desenvolvedor em formação com foco em Backend e Automação utilizando Python.
+Atualmente estou aprofundando conhecimentos em desenvolvimento web com Django, automação de tarefas, integração de sistemas e ciência de dados.
 
-[![Downloads](https://img.shields.io/github/followers/radoslz.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/radoslz/)
-</br>
-</br>
+Meu objetivo é atuar como desenvolvedor Python Júnior e evoluir rapidamente para níveis mais avançados através de projetos reais.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railsondoglas/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/railsondoglas/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/railsondoglas) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/C6sHtjRfQ7) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](railson.doglasii@gmail.com)
+---
 
-![Railson Doglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslz&show_icons=true&theme=radical)
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radoslz)](https://github.com/radoslz/github-readme-stats)
-    
-</div>
-<h2 align="center"><samp> Tecnologias que utilizo</samp></h2>
-<div style="dsiplay: inline_block"><br />
-     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="jss" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    </div>
-</div>
-<br/>
-<h2 align="center"><samp>Apaixonado por tecnoligia, minha família, minha gatinha e programação.</samp></h2>
+## 📚 Formação Técnica em Andamento
 
-<div align="center">
-  <img src="https://github.com/radoslz/radoslz/blob/main/github-contribution-grid-snake.svg">
-</div>
+### 🔹 PYCODE - Logic Master
+- Lógica de Programação avançada
+- Estrutura de dados
+- Resolução de problemas
+
+### 🔹 Shell Script: Do Básico ao Profissional
+- Automação em Linux
+- Scripts para DevOps
+
+### 🔹 Introdução ao Flet
+- Desenvolvimento de aplicações desktop com Python
+
+### 🔹 Fast Master
+- Otimização e performance
+
+### 🔹 Integration Master
+- Integração entre APIs
+- Sistemas distribuídos
+
+### 🔹 Django Master
+- Desenvolvimento Web Backend
+- APIs REST
+- ORM
+- Autenticação
+- Deploy
+
+---
+
+## 📖 Estudos Complementares
+
+- Data Science do Zero
+- Mãos à Obra: Aprendizado de Máquina
+- Automatize Tarefas Maçantes com Python
+- SQL Guia Prático
+
+---
+
+## 🛠️ Stack Tecnológica
+
+- Python
+- Django
+- SQL
+- Shell Script
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📌 Projetos em Desenvolvimento
+
+🔹 Sistema Web com Django (CRUD completo + autenticação)
+
+🔹 API REST com Django Rest Framework
+
+🔹 Projeto de Automação com Python
+
+🔹 Projeto de Análise de Dados
+
+(Em breve disponíveis aqui no perfil)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=radoslz&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/railsondoglas/
+
+Email: railson.doglasii@gmail.com
