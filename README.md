@@ -1,64 +1,34 @@
 <h1 align="center">Railson Doglas</h1>
 
 <p align="center">
-Desenvolvedor Python | Backend | Automação | Data Science
+Desenvolvedor Python | Backend | Automação | Data & APIs
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor em formação com foco em Backend e Automação utilizando Python.
-Atualmente estou aprofundando conhecimentos em desenvolvimento web com Django, automação de tarefas, integração de sistemas e ciência de dados.
+Desenvolvedor em formação com foco em Backend e automação utilizando Python.
 
-Meu objetivo é atuar como desenvolvedor Python Júnior e evoluir rapidamente para níveis mais avançados através de projetos reais.
+Atualmente aprofundando conhecimentos em:
+- Desenvolvimento web com Django
+- Construção de APIs REST
+- Integração entre sistemas
+- Automação de processos
+- Estruturação de bancos de dados SQL
+- Análise e manipulação de dados
+- Fundamentos de Machine Learning
 
----
-
-## 📚 Formação Técnica em Andamento
-
-### 🔹 PYCODE - Logic Master
-- Lógica de Programação avançada
-- Estrutura de dados
-- Resolução de problemas
-
-### 🔹 Shell Script: Do Básico ao Profissional
-- Automação em Linux
-- Scripts para DevOps
-
-### 🔹 Introdução ao Flet
-- Desenvolvimento de aplicações desktop com Python
-
-### 🔹 Fast Master
-- Otimização e performance
-
-### 🔹 Integration Master
-- Integração entre APIs
-- Sistemas distribuídos
-
-### 🔹 Django Master
-- Desenvolvimento Web Backend
-- APIs REST
-- ORM
-- Autenticação
-- Deploy
+Busco oportunidade como Desenvolvedor Python Júnior para aplicar conhecimento técnico em projetos reais e evoluir continuamente.
 
 ---
 
-## 📖 Estudos Complementares
-
-- Data Science do Zero
-- Mãos à Obra: Aprendizado de Máquina
-- Automatize Tarefas Maçantes com Python
-- SQL Guia Prático
-
----
-
-## 🛠️ Stack Tecnológica
+## 🛠️ Tecnologias
 
 - Python
 - Django
 - SQL
+- REST APIs
 - Shell Script
 - HTML
 - CSS
@@ -69,15 +39,24 @@ Meu objetivo é atuar como desenvolvedor Python Júnior e evoluir rapidamente pa
 
 ## 📌 Projetos em Desenvolvimento
 
-🔹 Sistema Web com Django (CRUD completo + autenticação)
+🔹 Sistema Web com autenticação e controle de usuários  
+🔹 API REST com integração entre serviços  
+🔹 Projeto de automação de tarefas com Python  
+🔹 Projeto de análise e tratamento de dados  
 
-🔹 API REST com Django Rest Framework
+---
 
-🔹 Projeto de Automação com Python
+## 📈 Evolução Técnica
 
-🔹 Projeto de Análise de Dados
+Atualmente desenvolvendo habilidades em:
 
-(Em breve disponíveis aqui no perfil)
+- Estrutura de dados e algoritmos
+- Programação orientada a objetos
+- Boas práticas de código (Clean Code)
+- Testes automatizados
+- Deploy de aplicações
+- Versionamento profissional com Git
+- Organização de projetos escaláveis
 
 ---
 
@@ -87,8 +66,6 @@ Meu objetivo é atuar como desenvolvedor Python Júnior e evoluir rapidamente pa
 
 ---
 
-## 📫 Contato
+## 🌐 Contato Profissional
 
 LinkedIn: https://www.linkedin.com/in/railsondoglas/
-
-Email: railson.doglasii@gmail.com
